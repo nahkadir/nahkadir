@@ -16,8 +16,9 @@ jobs:
         with:
           github_user_name: nahkadir
           outputs: |
-            dist/snake.svg
-            dist/github-snake-dark.svg
+            outputs: |
+              dist/snake.svg
+              dist/github-snake-dark.svg?color_snake=00ff41&color_background=0d1117&color_dot_gitignore=ff5555
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
