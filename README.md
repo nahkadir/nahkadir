@@ -29,6 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nahkadir/nahkadir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nahkadir/nahkadir/output/github-snake-dark.svg" />
 
 ###
